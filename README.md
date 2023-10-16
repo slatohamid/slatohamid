@@ -3,7 +3,7 @@
 <img align="right" alt"Coding width="400" src="https://tenor.com/bUxwZ.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=slatohamid&label=Profile%20views&color=0e75b6&style=flat" alt="slatohamid" /> </p>
 
-- 🌱 I’m currently learning **Bootstrap, Tailwind, JavaScriptaScript**
+- 🌱 I’m currently learning **Bootstrap, Tailwind, vite, JavaScriptaScript**
 
 - 📫 How to reach me **hslato@gmail.com**
 
