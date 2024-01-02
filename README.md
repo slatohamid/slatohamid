@@ -1,6 +1,6 @@
 ## About
 
-Hello there, I'm Hamid Slato, a developer based in Belgium
+*Hello there, I'm Hamid Slato, a developer based in Belgium.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hamid-slato-83087284/)
 
@@ -14,6 +14,6 @@ Hello there, I'm Hamid Slato, a developer based in Belgium
 [![TypeScript](https://img.shields.io/badge/TypeScript-Link-blue?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
 
 
- Fun fact: **It takes 50 milliseconds for users to form an opinion of your site. That's 0.05 seconds.**
+ **Fun fact**: *It takes 50 milliseconds for users to form an opinion of your site. That's 0.05 seconds.*
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=slatohamid&" alt="slatohamid" /></p>
