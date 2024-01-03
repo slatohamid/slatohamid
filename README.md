@@ -11,6 +11,9 @@
 
 [![OOP Object-oriented programming (OOP) ](https://img.shields.io/badge/OOP%20Object%20Oriented%20Programming-Visit%20Repository-blue?style=flat-square&logo=github)](https://github.com/slatohamid/OOP_main_track)
 
+[![Tracalorie App OOP Project](https://img.shields.io/badge/Tracalorie%20App%20OOP%20Project-View%20Repository-blue?style=flat-square&logo=github)](https://github.com/slatohamid/Tracalorie-App-OOP-Project)
+
+
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-Link-yellow?style=flat-square&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-Link-blue?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
