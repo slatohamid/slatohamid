@@ -9,7 +9,7 @@
 
 ### Currently learning
 
-[![OOP Object-oriented programming (OOP) ](https://img.shields.io/badge/OOP%20MERN-Visit%20Repository-FFA500?style=flat-square&logo=github)](https://github.com/slatohamid/the-bookface)
+[![OOP Object-oriented programming (OOP) ](https://img.shields.io/badge/OOP%20MERN%20FriendLink-Visit%20Repository-FFA500?style=flat-square&logo=github)](https://github.com/slatohamid/the-bookface)
 
 [![OOP Object-oriented programming (OOP) ](https://img.shields.io/badge/OOP%20Object%20Oriented%20Programming-Visit%20Repository-blue?style=flat-square&logo=github)](https://github.com/slatohamid/OOP_main_track)
 
