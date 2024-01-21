@@ -9,6 +9,8 @@
 
 ### Currently learning
 
+[![OOP Object-oriented programming (OOP) ](https://img.shields.io/badge/OOP%20MERN-Visit%20Repository-FFA500?style=flat-square&logo=github)](https://github.com/slatohamid/the-bookface)
+
 [![OOP Object-oriented programming (OOP) ](https://img.shields.io/badge/OOP%20Object%20Oriented%20Programming-Visit%20Repository-blue?style=flat-square&logo=github)](https://github.com/slatohamid/OOP_main_track)
 
 [![Tracalorie App OOP Project](https://img.shields.io/badge/Tracalorie%20App%20OOP%20Project-View%20Repository-blue?style=flat-square&logo=github)](https://github.com/slatohamid/Tracalorie-App-OOP-Project)
